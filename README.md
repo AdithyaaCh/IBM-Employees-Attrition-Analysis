@@ -45,11 +45,12 @@ _A few key visual insights from the analysis (click to zoom):_
 
 ## 📦 Repo Structure
 project-root/
-│
 ├── data/                # Dataset file
 ├── main.ipynb           # The main python notebook file
 ├── dashboards/          # Tableau workbook (.twbx) and dashboard screenshots
 ├── README.md            # Project overview and business summary
+└── requirements.txt     # Python dependencies
+--- 
 
 ## 📌 Notes
 
