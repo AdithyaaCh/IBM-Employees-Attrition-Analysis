@@ -44,7 +44,7 @@ _A few key visual insights from the analysis (click to zoom):_
 
 ## Repo Structure
 
-- data.csv             # Dataset file
+- WA_Fn-UseC_-HR-Employee-Attrition.csv             # Dataset file
 - main.ipynb           # The main python notebook file
 - dashboards/          # Tableau workbook (.twbx) and dashboard screenshots
 - README.md            # Project overview and business summary
