@@ -1,13 +1,12 @@
 # IBM-Employees-Attrition-Analysis
-# IBM Employee Attrition Analysis 📉
 
 This project explores why employees leave an organization and how we can predict and reduce attrition using data. The dataset used is the classic IBM HR Analytics Employee Attrition dataset, commonly found on Kaggle.
 
-We looked at this not just as a machine learning problem, but as a **business problem**. What factors are pushing employees to leave? What can be done about it? And what’s the cost of ignoring it?
+I looked at this not just as a machine learning problem, but as a **business problem**. What factors are pushing employees to leave? What can be done about it? And what’s the cost of ignoring it?
 
 ---
 
-## 🧠 What We Did
+## What I Did-
 
 - Explored employee behavior, compensation, experience, job satisfaction, and more
 - Found clear patterns in attrition based on role, income, age, job involvement, and workload
@@ -16,7 +15,7 @@ We looked at this not just as a machine learning problem, but as a **business pr
 
 ---
 
-## 📊 Dashboard Snapshots
+## Dashboard Snapshots
 
 _A few key visual insights from the analysis (click to zoom):_
 
@@ -26,7 +25,7 @@ _A few key visual insights from the analysis (click to zoom):_
 
 ---
 
-## 🔍 Key Business Insights
+## Key Business Insights
 
 - High attrition risk in lower job levels, single employees, and early-career workers
 - Salary hikes, stock options, and job involvement significantly reduce attrition
@@ -35,7 +34,7 @@ _A few key visual insights from the analysis (click to zoom):_
 
 ---
 
-## ⚙️ Tools Used
+## Tools Used
 
 - Python (Pandas, Seaborn, Matplotlib, Scikit-learn)
 - Tableau for interactive dashboards
