@@ -42,7 +42,7 @@ _A few key visual insights from the analysis (click to zoom):_
 
 ---
 
-## 📦 Repo Structure
+## Repo Structure
 
 - data.csv             # Dataset file
 - main.ipynb           # The main python notebook file
@@ -51,7 +51,7 @@ _A few key visual insights from the analysis (click to zoom):_
 
 --- 
 
-## 📌 Notes
+## Notes
 
 - This project is focused on explainability and business value, not just ML accuracy.
 - For Tableau dashboards, download the `.twbx` file in the dashboards folder.
